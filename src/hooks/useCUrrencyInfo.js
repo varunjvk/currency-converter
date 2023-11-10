@@ -1,5 +1,4 @@
-const { useEffect } = require("react")
-const { useState } = require("react")
+import { useState,useEffect } from "react"
 
 
 const useCurrencyInfo = (currency) => {
